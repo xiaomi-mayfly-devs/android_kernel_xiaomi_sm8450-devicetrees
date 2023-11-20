@@ -321,6 +321,7 @@ dtbo-$(CONFIG_ARCH_CAPE) += cape-mtp-pm8008-overlay.dtbo \
 	ukee-mtp-nodisplay-pm8010-overlay.dtbo \
 	ukee-qrd-pm8008-overlay.dtbo \
 	ukee-qrd-pm8010-overlay.dtbo \
+	mayfly-sm8475-pm8008-overlay.dtbo \
 	mondrian-sm8475-pm8008-overlay.dtbo
 
 
